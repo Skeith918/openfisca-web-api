@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.1
+
+* Add documentation and example files to deploy in production.
+
 ## 3.0.0
 
 * Adapt parsers to core#v4
